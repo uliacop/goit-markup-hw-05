@@ -747,7 +747,7 @@ footer {
   outline: 0px solid transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   padding: 8px 16px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .review-form-comment::placeholder {
