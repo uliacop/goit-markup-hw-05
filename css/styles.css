@@ -678,7 +678,7 @@ footer {
   font-weight: 500;
   line-height: 24px; 
   letter-spacing: 0.32px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .review-form-field-wrapper {
@@ -697,6 +697,7 @@ footer {
 
 .review-form-input-wrapper {
   position: relative;
+  margin-bottom: 8px;
 }
 
 .review-form-input {
@@ -758,7 +759,7 @@ footer {
 }
 
 .review-form-checkbox-wrapper {
-  margin-bottom: 40px;
+  margin-bottom: 24px;
 }
 
 .review-form-checkbox-label {
